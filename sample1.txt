@@ -1,3 +1,2 @@
 This is first commit
 This is branch 1
-THis is branch 2
