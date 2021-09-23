@@ -1,2 +1,2 @@
 This is first commit
-THis si feature F2
+This is feature F2
